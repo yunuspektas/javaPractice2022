@@ -20,7 +20,7 @@ public class JavaMathClassMethods {
         System.out.println("3.1 sayisinin alt tamsayiya yuvarlama = " + Math.floor(3.1)); // 3 -> taban
         System.out.println("3.5 sayisinin alt tamsayiya yuvarlama = " + Math.floor(3.5)); // 3
 
-        //Math.random() : double veri tipine sahip olarak algılar ve 0-1 arasında rastgele sayı üretir. (Math.random())
+        //Math.random() : double veri tipine sahip olarak algılar ve  0-1 arasında rastgele sayı üretir. (Math.random())
 
         /* random() metoduyla rastgele değer üretme */
         double doubleSayi = Math.random()*100;
