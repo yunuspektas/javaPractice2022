@@ -23,7 +23,6 @@ public class Q10_Varargs01 {
     }
 
     private static void sayiToplama(int...sayi){ //varargs 3 noktadan anliyoruz
-      toplam =0;
         for (int each:sayi
              ) {
             toplam+=each;
